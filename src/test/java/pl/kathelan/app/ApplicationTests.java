@@ -1,10 +1,10 @@
-package pl.kathelan.eurojackpotfrequentlyanalysis;
+package pl.kathelan.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EurojackpotFrequentlyAnalysisApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
